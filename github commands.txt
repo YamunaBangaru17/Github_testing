@@ -1,0 +1,3 @@
+ SSH Keygeneration:
+
+ssh-keygen -t rsa -C yamunabangaru17@gmail.com
